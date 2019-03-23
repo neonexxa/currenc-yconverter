@@ -1,7 +1,7 @@
 {
     "name": "neonexxa/currency-converter",
     "description": "php currency converter",
-    "type": "composer-plugin",
+    "type": "library",
     "authors": [
         {
             "name": "neonexxa",
