@@ -1,6 +1,7 @@
 {
     "name": "neonexxa/currency-converter",
     "description": "php currency converter",
+    "license": "MIT",
     "authors": [
         {
             "name": "neonexxa",
