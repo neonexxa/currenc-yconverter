@@ -1,7 +1,7 @@
 {
     "name": "neonexxa/currency-converter",
     "description": "php currency converter",
-    "type": "library",
+    "version": "v1.1.0",
     "authors": [
         {
             "name": "neonexxa",
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "CurrencyConverter": "src/"
+            "Neonexxa\\CurrencyConverter": "src/"
         }
     }
 }

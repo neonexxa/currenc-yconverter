@@ -1,6 +1,6 @@
 <?php 
-namespace CurrencyConverter;
-class Converter {
+namespace Neonexxa\CurrencyConverter;
+class CurrencyConverter {
 
 	private $host = 'https://free.currencyconverterapi.com/api/v6/convert';
 	private $data = array();
